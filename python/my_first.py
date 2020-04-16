@@ -17,3 +17,4 @@ date = input("오늘은 몇일째 수업인가요?")
 complete_message = message.format(who,date)
 
 print(complete_message)
+print("hellowks")
